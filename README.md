@@ -12,7 +12,7 @@
  
  🔭 I’m interested in **learning things** that excites me
  
- 🌱 I’m currently learning **node.js, React, Express, PostgreSQL**
+ 🌱 I’m currently learning **Node.js, React, Express, PostgreSQL**
 
 💬 Pursuing **B.Tech IT** in Madras Institute Of Technology, **Anna University**
 
