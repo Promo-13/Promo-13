@@ -44,10 +44,20 @@
 <br/>
 <hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Promo-13/Promo-13/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Promo-13&theme=react)](https://git.io/streak-stats)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Promo-13&theme=react)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Promo-13)](https://github.com/Promo-13/github-readme-stats)
 <hr/>
 <!--
 **Promo-13/Promo-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
