@@ -45,8 +45,6 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Promo-13&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Promo-13&theme=react)](https://git.io/streak-stats)
 
 
