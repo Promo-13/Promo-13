@@ -56,8 +56,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Promo-13&layout=donut&theme=react)](https://github.com/Promo-13/github-readme-stats)<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Promo-13&theme=react)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Promo-13)](https://github.com/Promo-13/github-readme-stats)
 <hr/>
 <!--
 **Promo-13/Promo-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
