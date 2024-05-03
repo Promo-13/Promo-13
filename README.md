@@ -49,7 +49,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Promo-13&theme=react-dark)](https://github.com/Promo-13/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Promo-13&theme=react)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Promo-13&show_icons=true&theme=react&rank_icon=github)
 <hr/>
 <!--
 **Promo-13/Promo-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
