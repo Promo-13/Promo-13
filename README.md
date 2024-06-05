@@ -1,4 +1,4 @@
-
+<img align="right" alt="coding" height="200" width="200" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There!%20👋;I'm%20Promodh!&font=Righteous&center=true&width=500&height=70&color=f75c7e&vCenter=true&pause=500&size=35" /></a>
