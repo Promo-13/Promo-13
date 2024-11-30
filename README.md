@@ -24,7 +24,7 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/Promo-13/Todo-list-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Promo-13&repo=Todo-list-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/Promo-13/Evogym"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Promo-13&repo=Evogym&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
     <a href="https://github.com/Promo-13/IOT-Smart-Parking-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Promo-13&repo=IOT-Smart-Parking-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
     <a href="https://github.com/Promo-13/Library-Management"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Promo-13&repo=Library-Management&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
     <a href="https://github.com/Promo-13/Travel-Tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Promo-13&repo=Travel-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
